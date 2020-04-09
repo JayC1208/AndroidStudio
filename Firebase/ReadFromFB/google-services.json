@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "378763558707",
+    "firebase_url": "https://android-stargram.firebaseio.com",
+    "project_id": "android-stargram",
+    "storage_bucket": "android-stargram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378763558707:android:42eb0bfe6e1097bc034846",
+        "android_client_info": {
+          "package_name": "C8_A.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378763558707-i9v4hoeh663urb866nvblvq65136dgng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnN4HawbXfg7vowl5yXjH-cMSTY_QMOtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378763558707-i9v4hoeh663urb866nvblvq65136dgng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378763558707:android:6ac5259c6e8bb6be034846",
+        "android_client_info": {
+          "package_name": "FB_1.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378763558707-i9v4hoeh663urb866nvblvq65136dgng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnN4HawbXfg7vowl5yXjH-cMSTY_QMOtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378763558707-i9v4hoeh663urb866nvblvq65136dgng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378763558707:android:fbb0e570e9320dd9034846",
+        "android_client_info": {
+          "package_name": "com.g82.ikstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378763558707-i9v4hoeh663urb866nvblvq65136dgng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnN4HawbXfg7vowl5yXjH-cMSTY_QMOtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378763558707-i9v4hoeh663urb866nvblvq65136dgng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
